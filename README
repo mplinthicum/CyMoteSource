@@ -1,11 +1,16 @@
 May1735
 
 Code that the team wrote that is run on the CyMote is included in 
-the atmel directory.  The code cannot be compiled with just this, 
-you need the atmel project files, but for readability and ease of 
-exploration of the work we have done, we have organized it this way.
+the atmel directory.  Code that the team wrote that is run on the PC 
+side is included in the pcwrapper directory.  The code cannot be compiled 
+with just these files, you need the atmel studio project files, visual 
+studio project files, and various other dependencies, but for readability 
+and ease of exploration of the work we have done, we have organized it this 
+way.
 
-Code that the team wrote that is run on the PC side is inclued in
-the pcwrapper directory.  This code cannot be compiled with just what
-is included, you need the visual studio project file, but for readability
-we have organized it this way.
+Link to our development repo that has the all project files:
+
+https://github.com/kfisch713/Senior-Design
+
+The runnable version of our CyMote program is in Cymote/Cymote2.  The 
+runnable version of our PC Wrapper is in PC_Wrapper/ConsoleApplication2.
