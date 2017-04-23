@@ -1,0 +1,11 @@
+May1735
+
+Code that the team wrote that is run on the CyMote is included in 
+the atmel directory.  The code cannot be compiled with just this, 
+you need the atmel project files, but for readability and ease of 
+exploration of the work we have done, we have organized it this way.
+
+Code that the team wrote that is run on the PC side is inclued in
+the pcwrapper directory.  This code cannot be compiled with just what
+is included, you need the visual studio project file, but for readability
+we have organized it this way.
